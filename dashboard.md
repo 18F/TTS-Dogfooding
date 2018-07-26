@@ -1,10 +1,10 @@
 
-Table of TTS web properties and whether they are utilizing other TTS services
+Table of TTS web properties and whether they are utilizing other TTS services (Y = Yes, N = N, IP = In Progress, N/A = Not Applicable)
 
 |   |  DAP | Cloud.gov  |  Search.gov |  Login.gov | USWDS  | Bug Bounty  |  Federalist | api.data.gov  |   |
 |---|---|---|---|---|---|---|---|---|---|
 | **OPP - Data Portfolio**  |   |   |   |   |   |   |   |   |   |
-| Api.data.gov |  Y |  In Progress |  N/A | In Progress  |  N | Y  | N  | Y  |   |
+| Api.data.gov |  Y |  IP |  N/A | IP  |  N | Y  | N  | Y  |   |
 |  Data.gov |  Y |  N | N/A  |  N |  N |   |  N | Y  |   |
 | Analytics.usa.gov  |  Y | Y  | N/A  | N/A  |  Y |   | N  | Y  |   |
 |   |   |   |   |   |   |   |   |   |   |
