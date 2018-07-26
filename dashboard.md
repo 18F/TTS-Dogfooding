@@ -1,19 +1,21 @@
 
+Table of TTS web properties and whether they are utilizing other TTS services
+
 |   |  DAP | Cloud.gov  |  Search.gov |  Login.gov | USWDS  | Bug Bounty  |  Federalist | api.data.gov  |   |
 |---|---|---|---|---|---|---|---|---|---|
-| *OPP - Data Portfolio*  |   |   |   |   |   |   |   |   |   |
-| Api.data.gov |  Y |  In Progress |  N/A | In Progress  |  No | Yes  | No  | Yes  |   |
-|  Data.gov |  Y |  N |   |   |   |   |   |   |   |
-| Analytics.usa.gov  |  Y | Y  |   |   |   |   |   |   |   |
+| **OPP - Data Portfolio**  |   |   |   |   |   |   |   |   |   |
+| Api.data.gov |  Y |  In Progress |  N/A | In Progress  |  N | Y  | N  | Y  |   |
+|  Data.gov |  Y |  N | N/A  |  N |  N |   |  N | Y  |   |
+| Analytics.usa.gov  |  Y | Y  | N/A  | N/A  |  Y |   | N  | Y  |   |
 |   |   |   |   |   |   |   |   |   |   |
-| *OPP - Innovation Portfolio*   |   |   |   |   |   |   |   |   |   |
-|  Challenge.gov |   |   |   |   |   |   |   |   |   |
-|  Citizenscience.gov |   |   |   |   |   |   |   |   |   |
-|  Digital.gov |  Y |   |   |   |   |   |   |   |   |
+| **OPP - Innovation Portfolio**   |   |   |   |   |   |   |   |   |   |
+|  Challenge.gov |  Y |  N |   |   |   |   |   |   |   |
+|  Citizenscience.gov |  Y | N  |   |   |   |   |   |   |   |
+|  Digital.gov |  Y |  N |   |  N |   |   | Y  |   |   |
 |   |   |   |   |   |   |   |   |   |   |
-|  *18F* |   |   |   |   |   |   |   |   |   |
-| 18f.gsa.gov  |  Y |   |   |   |   |   |   |   |   |
-| Federalist.18f.gov  |  Y |   |   |   |   |   |   |   |   |
-|  Login.gov | Y  |   |   |   |   |   |   |   |   |
+|  **18F** |   |   |   |   |   |   |   |   |   |
+| 18f.gsa.gov  |  Y |  N/A | N/A  |  N/A |   |   |  Y |  N/A |   |
+| Federalist.18f.gov  |  Y |  Y | N/A  |   |   |   |  Y |  N |   |
+|  Login.gov | Y  |   |  N/A |  Y |   | Y  |   |  N |   |
 
 
