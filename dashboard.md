@@ -5,7 +5,7 @@ Table of TTS web properties and whether they are utilizing other TTS services (Y
 |---|---|---|---|---|---|---|---|---|---|
 | **OPP - Data Portfolio**  |   |   |   |   |   |   |   |   |   |
 | Api.data.gov |  Y |  IP |  N/A | IP  |  N | Y  | N  | Y  |   |
-|  Data.gov |  Y |  N | N/A  |  N |  N |   |  N | Y  |   |
+|  Data.gov |  Y |  N | N/A  |  N |  N |  Y |  N | Y  |   |
 | Analytics.usa.gov  |  Y | Y  | N/A  | N/A  |  Y |   | N  | Y  |   |
 |   |   |   |   |   |   |   |   |   |   |
 | **OPP - Innovation Portfolio**   |   |   |   |   |   |   |   |   |   |
@@ -15,7 +15,7 @@ Table of TTS web properties and whether they are utilizing other TTS services (Y
 |   |   |   |   |   |   |   |   |   |   |
 |  **18F** |   |   |   |   |   |   |   |   |   |
 | 18f.gsa.gov  |  Y |  N/A | N/A  |  N/A |   |   |  Y |  N/A |   |
-| Federalist.18f.gov  |  Y |  Y | N/A  |   |   |   |  Y |  N |   |
+| Federalist.18f.gov  |  Y |  Y | N/A  |   |   |  Y |  Y |  N |   |
 |  Login.gov | Y  |   |  N/A |  Y |   | Y  |   |  N |   |
 
 
